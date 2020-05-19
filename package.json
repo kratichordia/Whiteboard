@@ -1,5 +1,5 @@
 {
-  "name": node,
+  "name": "node" ,
   "version": "1.0.0",
   "main": "script.js",
   "scripts":{
@@ -8,7 +8,7 @@
   "keywords" : [],
   "author":"",
   "license": "ISC"
-  "dependencies" : {},
+  "dependencies": {},
   "devdependencies" : {
     "nodemon": "^1.12.7"
   },
