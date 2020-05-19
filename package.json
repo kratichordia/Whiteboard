@@ -8,7 +8,9 @@
   "keywords" : [],
   "author":"",
   "license": "ISC"
-  "dependencies": {},
+  "dependencies": {
+    
+  },
   "devdependencies" : {
     "nodemon": "^1.12.7"
   },
