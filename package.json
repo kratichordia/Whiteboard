@@ -1,1 +1,16 @@
-
+{
+  "name": node,
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts":{
+    "start" : "nodemon"
+  },
+  "keywords" : [],
+  "author":"",
+  "license": "ISC"
+  "dependencies" : {},
+  "devdependencies" : {
+    "nodemon": "^1.12.7"
+  },
+  "description":""
+}
