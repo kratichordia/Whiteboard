@@ -1,8 +1,6 @@
-# revise-node
-This is a node+express base app
+A whiteboard with chat functionality, developed using socket.io.
 
-download first, 
-in the terminal, go to the same directory
-
+command to run:
 node index.js
 
+Runs on port 3001.
